@@ -1,0 +1,46 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\docstring-to-markdown-0.11-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/docstring_to_markdown-0.11.dist-info/INSTALLER",
+    "Lib/site-packages/docstring_to_markdown-0.11.dist-info/LICENSE",
+    "Lib/site-packages/docstring_to_markdown-0.11.dist-info/METADATA",
+    "Lib/site-packages/docstring_to_markdown-0.11.dist-info/RECORD",
+    "Lib/site-packages/docstring_to_markdown-0.11.dist-info/REQUESTED",
+    "Lib/site-packages/docstring_to_markdown-0.11.dist-info/WHEEL",
+    "Lib/site-packages/docstring_to_markdown-0.11.dist-info/direct_url.json",
+    "Lib/site-packages/docstring_to_markdown-0.11.dist-info/top_level.txt",
+    "Lib/site-packages/docstring_to_markdown/__init__.py",
+    "Lib/site-packages/docstring_to_markdown/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/docstring_to_markdown/__pycache__/rst.cpython-312.pyc",
+    "Lib/site-packages/docstring_to_markdown/py.typed",
+    "Lib/site-packages/docstring_to_markdown/rst.py",
+    ".nonadmin"
+  ],
+  "fn": "docstring-to-markdown-0.11-py312haa95532_0.conda",
+  "license": "LGPL-2.1-or-later",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\docstring-to-markdown-0.11-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "4f14897b164480155a4b9f31e2569bb4",
+  "name": "docstring-to-markdown",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\docstring-to-markdown-0.11-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::docstring-to-markdown==0.11=py312haa95532_0[md5=4f14897b164480155a4b9f31e2569bb4]",
+  "sha256": "e7d627b2b9d4ddfb035573b43d5688ff0a64357636d260f990736c4a01f532b3",
+  "size": 34917,
+  "subdir": "win-64",
+  "timestamp": 1699484288000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/docstring-to-markdown-0.11-py312haa95532_0.conda",
+  "version": "0.11"
+}
