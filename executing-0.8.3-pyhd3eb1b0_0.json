@@ -1,0 +1,62 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=2.7"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\executing-0.8.3-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/executing-0.8.3.dist-info/INSTALLER",
+    "Lib/site-packages/executing-0.8.3.dist-info/LICENSE.txt",
+    "Lib/site-packages/executing-0.8.3.dist-info/METADATA",
+    "Lib/site-packages/executing-0.8.3.dist-info/RECORD",
+    "Lib/site-packages/executing-0.8.3.dist-info/REQUESTED",
+    "Lib/site-packages/executing-0.8.3.dist-info/WHEEL",
+    "Lib/site-packages/executing-0.8.3.dist-info/direct_url.json",
+    "Lib/site-packages/executing-0.8.3.dist-info/top_level.txt",
+    "Lib/site-packages/executing/__init__.py",
+    "Lib/site-packages/executing/executing.py",
+    "Lib/site-packages/executing/version.py",
+    ".nonadmin",
+    "Lib/site-packages/executing/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/executing/__pycache__/executing.cpython-312.pyc",
+    "Lib/site-packages/executing/__pycache__/version.cpython-312.pyc"
+  ],
+  "fn": "executing-0.8.3-pyhd3eb1b0_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\executing-0.8.3-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "7be61d1c3c555fb37682b28d7a53d622",
+  "name": "executing",
+  "noarch": "python",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\executing-0.8.3-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/executing/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/executing/__pycache__/executing.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/executing/__pycache__/version.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::executing==0.8.3=pyhd3eb1b0_0[md5=7be61d1c3c555fb37682b28d7a53d622]",
+  "sha256": "19861fd553ee36da352401ece4564271be8a958726a527b9731f229fa6131c5d",
+  "size": 18683,
+  "subdir": "noarch",
+  "timestamp": 1646925120000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/executing-0.8.3-pyhd3eb1b0_0.conda",
+  "version": "0.8.3"
+}
