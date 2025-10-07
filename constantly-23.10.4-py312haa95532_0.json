@@ -1,0 +1,51 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\constantly-23.10.4-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/constantly-23.10.4.dist-info/INSTALLER",
+    "Lib/site-packages/constantly-23.10.4.dist-info/LICENSE",
+    "Lib/site-packages/constantly-23.10.4.dist-info/METADATA",
+    "Lib/site-packages/constantly-23.10.4.dist-info/RECORD",
+    "Lib/site-packages/constantly-23.10.4.dist-info/REQUESTED",
+    "Lib/site-packages/constantly-23.10.4.dist-info/WHEEL",
+    "Lib/site-packages/constantly-23.10.4.dist-info/direct_url.json",
+    "Lib/site-packages/constantly-23.10.4.dist-info/top_level.txt",
+    "Lib/site-packages/constantly/__init__.py",
+    "Lib/site-packages/constantly/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/constantly/__pycache__/_constants.cpython-312.pyc",
+    "Lib/site-packages/constantly/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/constantly/_constants.py",
+    "Lib/site-packages/constantly/_version.py",
+    "Lib/site-packages/constantly/test/__init__.py",
+    "Lib/site-packages/constantly/test/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/constantly/test/__pycache__/test_constants.cpython-312.pyc",
+    "Lib/site-packages/constantly/test/test_constants.py",
+    ".nonadmin"
+  ],
+  "fn": "constantly-23.10.4-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\constantly-23.10.4-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "2328a125da73182ca55cae718f254be4",
+  "name": "constantly",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\constantly-23.10.4-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::constantly==23.10.4=py312haa95532_0[md5=2328a125da73182ca55cae718f254be4]",
+  "sha256": "5b72871a3ebd3287d3c23a3c848d33b39c57f6cd4ce1beae0de3a49c90a80c98",
+  "size": 32701,
+  "subdir": "win-64",
+  "timestamp": 1703165857000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/constantly-23.10.4-py312haa95532_0.conda",
+  "version": "23.10.4"
+}
